@@ -10,3 +10,6 @@
 
 ### [3. **LSH**](./A3/)
    - **Objective:** Use Locality Sensitive Hashing (LSH) to predict the top 5 most similar data samples and evaluate performance based on intersection scores.`
+
+### [4. **Community Detection**](./A4/)
+   - **Objective:** Implement community detection in the GitHub social dataset using Apache Spark.  
